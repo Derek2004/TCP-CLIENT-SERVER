@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Importing the socket
+# Importing the socket module
 import socket
 
 # Creating a socket object
